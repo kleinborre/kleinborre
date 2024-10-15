@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 👋👋👋
 ### Welcome to my profile!
 #### 🌱 I’m currently learning fundamentals of languages like Java and PHP!
 #### 👯 I’m looking to collaborate on any languages mentioned above.
