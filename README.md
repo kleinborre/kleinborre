@@ -1,8 +1,8 @@
 ## Hi there 👋
 #### Welcome to my profile!
-###### 🌱 I’m currently learning fundamentals of languages like Java and PHP! I'm a complete beginner.
-###### 👯 I’m looking to collaborate on any languages I mentioned above.
-###### 🔭 I’m currently working on my portfolio. Projects coming soon!
+##### 🌱 I’m currently learning fundamentals of languages like Java and PHP!
+##### 👯 I’m looking to collaborate on any languages mentioned above.
+##### 🔭 I’m currently working on my portfolio.
 
 
 <!--
