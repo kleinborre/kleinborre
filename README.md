@@ -1,4 +1,9 @@
 ## Hi there 👋
+## Welcome to my profile!
+## 🌱 I’m currently learning fundamentals of languages like Java and PHP!
+## 🔭 I’m currently working on my portfolios. COMING SOON!
+## 👯 I’m looking to collaborate on any languages I mentioned above.
+
 
 <!--
 **kleinborre/kleinborre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
