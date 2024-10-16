@@ -1,5 +1,4 @@
-![tumblr_mhz3l5vlc51rivyo4o1_400](https://github.com/user-attachments/assets/b4275866-000c-4970-bbf8-f5e2441f5093)
-<img src="https://github.com/user-attachments/assets/b4275866-000c-4970-bbf8-f5e2441f5093" width="700">
+<img src="https://github.com/user-attachments/assets/b4275866-000c-4970-bbf8-f5e2441f5093" width="1000">
 ## Sup, Bro! Welcome to my Profile! 😎
 #### 🌱 I’m currently learning fundamentals of languages like Java and PHP!
 #### 👯 I’m looking to collaborate on any languages mentioned above!
