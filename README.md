@@ -1,4 +1,5 @@
-![tumblr_mhz3l5vlc51rivyo4o1_400](https://github.com/user-attachments/assets/0dd1f0d7-d691-499f-a6ff-78ebd1984e45)
+![tumblr_mhz3l5vlc51rivyo4o1_400](https://github.com/user-attachments/assets/7a6db38c-526d-43c4-bb2c-a60e25d0a0c5)
+<img src="![tumblr_mhz3l5vlc51rivyo4o1_400](https://github.com/user-attachments/assets/7a6db38c-526d-43c4-bb2c-a60e25d0a0c5)" width="300" />
 
 ## Sup, Bro! Welcome to my Profile! 😎
 #### 🌱 I’m currently learning fundamentals of languages like Java and PHP!
