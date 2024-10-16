@@ -1,5 +1,6 @@
-# Wassup, Bro!👋
-### Welcome to my Profile!
+![tumblr_mhz3l5vlc51rivyo4o1_400](https://github.com/user-attachments/assets/0dd1f0d7-d691-499f-a6ff-78ebd1984e45)
+
+## Sup, Bro! Welcome to my Profile! 😎
 #### 🌱 I’m currently learning fundamentals of languages like Java and PHP!
 #### 👯 I’m looking to collaborate on any languages mentioned above!
 #### 🔭 I’m currently working on my portfolio!
