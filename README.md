@@ -1,4 +1,4 @@
-# Hi there 👋
+# Wassup, Bro!👋
 ### Welcome to my Profile!
 #### 🌱 I’m currently learning fundamentals of languages like Java and PHP!
 #### 👯 I’m looking to collaborate on any languages mentioned above!
