@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/b4275866-000c-4970-bbf8-f5e2441f5093" width="800">
+<img src="https://github.com/user-attachments/assets/b4275866-000c-4970-bbf8-f5e2441f5093" width="700">
 # Sup, Bro! Welcome to my Profile! 😎
 
 
