@@ -1,8 +1,4 @@
-# Sup, Bro! Welcome to my Profile! 👨🏻‍💻
 <img src="https://github.com/user-attachments/assets/b4275866-000c-4970-bbf8-f5e2441f5093" width="1000">
-
-
-
 <!--
 **kleinborre/kleinborre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
